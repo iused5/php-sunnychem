@@ -1,0 +1,36 @@
+a:link { text-decoration: none; color: #272727; font-size: 13px; line-height:12pt;} 
+a:visited { text-decoration: none; color: #272727; font-size: 13px; line-height:12pt;} 
+a:active { text-decoration: none; color: #4E87FF; font-size: 13px; line-height:12pt;} 
+a:hover { text-decoration:underline; color:#272727; font-size: 13px; line-height:12pt;} 
+
+INPUT { COLOR: #454545; FONT-FAMILY: 굴림, Gulim; FONT-SIZE: 9pt } 
+
+TEXTAREA { BORDER-BOTTOM: 
+#454545 1px solid; BORDER-LEFT: #454545 1px solid; BORDER-RIGHT: #454545 1px solid; 
+BORDER-TOP: #454545 1px solid; COLOR: #454545; FONT-FAMILY: 굴림, Gulim; FONT-SIZE: 
+9pt } 
+
+input.Login { COLOR: #FFFFFF; border:1x SOLID #415369; BACKGROUND: #6787AD; 
+border-bottom-color:#999999; border-right-color:#272727;} 
+
+body { font-family: 
+"돋움", "Geneva", "Arial", "Helvetica", "san-serif"; font-size: 9pt; line-height: 
+140%; color: #272727; text-decoration: none; text-align: justify } 
+
+.menu { font-family: 
+"돋움","Geneva", "Arial", "Helvetica", "san-serif"; font-size: 9pt; color: #ffffff; 
+text-decoration: none}  
+
+a.admin_menu:link { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;}
+a.admin_menu:visited { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;}
+a.admin_menu:active { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;position:relative; top:1; left:1;}
+a.admin_menu:hover { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;position:relative; top:1; left:1;}
+
+.input_gray { font-family: Dotum, DotumChe, Arial, Helvetica; font-size:12px; border: 1px #EFEFEF solid; background-color: #EFEFEF; }
+
+.box { font-family: Dotum, DotumChe, Arial, Helvetica; font-size:12px; border: 1px #EFEFEF solid; background-color: #EFEFEF; }
+
+td{ font-family: Dotum,DotumChe,Verdana,Arial,Helvetica,sans-serif; font-size: 13px; line-height: 120%; color: #272727; text-decoration: none; text-align: justify} 
+
+td.small{ font-family: "돋움", "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 11px; line-height: 100%; color: #272727; text-decoration: none; text-align: justify} 
+
