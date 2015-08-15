@@ -1,8 +1,7 @@
 <?
 //session_cache_limiter('no-cache, must-revalidate'); // 검색 후 뒤로가기 해도 빈페이지 나오지 않음. 
 session_start();
-// FIX - 2015-08-15-01 - require_once "/home/anyhomepage/public_html/sunnychem/inc/conf.inc.php"; //XXXXX
-require_once "c:/app/git-repository/php-sunnychem/public_html/sunnychem/inc/conf.inc.php"; //XXXXX
+require_once "/home/anyhomepage/public_html/sunnychem/inc/conf.inc.php"; //XXXXX
 
 if($MemberID){
 }else{

@@ -1,0 +1,11 @@
+애니홈페이지입니다. 소스보내드립니다.
+
+옮기시고 수정하실 부분은
+
+inc/conf.inc.php 
+
+inc/h.inc.php  
+
+inc/pre.inc.php 
+
+입니다.

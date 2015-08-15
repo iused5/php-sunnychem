@@ -1,0 +1,50 @@
+<?
+ $admin_YN="Y";
+ include "h.inc.php";
+ include "../quickds_admin/menu.inc.php";
+
+echo "$REMOTE_ADDR";
+
+ if($mode=="act"){
+  $a="select id from $table_ip";
+  $b=mysql_query($a);
+  if(mysql_num_rows($b)){
+   $c=mysql_fetch_array($b);
+   $x="update $table_ip set ta1='$ta1' where id='$c[id]'";
+  }else{
+   $x="insert into $table_ip set ta1='$ta1'";
+  }
+  mysql_query($x);
+  echo "<script>window.alert('OK');</script>";
+ }
+  $a="select id,ta1 from $table_ip";
+  //echo "=$a";
+  $b=mysql_query($a);
+  $c=mysql_fetch_array($b);
+?>
+
+<div align=center>
+<table width=650>
+<form action="ip.html" method="post">
+<input type=hidden name=mode value="act">
+<tr><td>
+Blocking IP List
+<br>
+<textarea name=ta1 rows=20 cols=100>
+<?
+ //$c[ta1]=nl2br($c[ta1]);
+ echo "$c[ta1]";
+?>
+</textarea>
+</td></tr>
+<tr><td>
+<div align=center>
+<input type=submit value="          ok              ">
+</div>
+</td></tr>
+</form>
+</table>
+
+<?
+ include "t.inc.php";
+?>

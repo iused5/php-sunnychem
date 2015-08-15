@@ -1,0 +1,37 @@
+td{ font-family: "Arial", "µ¸¿ò", "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 
+9pt; line-height: 20px; color: #272727; text-decoration: none; text-align: justify} 
+
+td.small{ font-family: "Arial", "µ¸¿ò", "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 
+11px; line-height: 100%; color: #272727; text-decoration: none; text-align: justify} 
+
+a:link { text-decoration: none; color: #666666; font-size: 9pt; line-height:12pt;} 
+a:visited { text-decoration: none; color: #666666; font-size: 9pt; line-height:12pt;} 
+a:active { text-decoration: none; color: #4E87FF; font-size: 9pt; line-height:12pt;} 
+a:hover { text-decoration:none; color:#666666; font-size: 9pt; line-height:12pt;} 
+
+
+A:link { COLOR: #3a4e40; TEXT-DECORATION: none }
+A:visited { COLOR: #3a4e40; TEXT-DECORATION: none }
+A:active { COLOR: #3a4e40; TEXT-DECORATION: none }
+A:hover { COLOR: #ff6633; TEXT-DECORATION: none }
+
+INPUT { COLOR: #454545; FONT-FAMILY: ±¼¸², Gulim; FONT-SIZE: 9pt } TEXTAREA { BORDER-BOTTOM: 
+#454545 1px solid; BORDER-LEFT: #454545 1px solid; BORDER-RIGHT: #454545 1px solid; 
+BORDER-TOP: #454545 1px solid; COLOR: #454545; FONT-FAMILY: ±¼¸², Gulim; FONT-SIZE: 
+9pt } input.Login { COLOR: #FFFFFF; border:1x SOLID #415369; BACKGROUND: #6787AD; 
+border-bottom-color:#999999; border-right-color:#666666;} body { font-family: 
+"µ¸¿ò", "Geneva", "Arial", "Helvetica", "san-serif"; font-size: 9pt; line-height: 
+140%; color: #666666; text-decoration: none; text-align: justify } .menu { font-family: 
+"µ¸¿ò","Geneva", "Arial", "Helvetica", "san-serif"; font-size: 9pt; color: #ffffff; 
+text-decoration: none}  input.Login { COLOR: #31318E; border:1x SOLID #415369; BACKGROUND: #FFFFFF; border-bottom-color:#999999; 
+border-right-color:#666666;} .best_text { font-family:&quot;µ¸¿ò&quot;,"Arial", 
+"Helvetica", "sans-serif"; font-size: 9pt; color: #FF6600; text-decoration: none} best_text.link {font-size:9pt; color:#33CC00; text-decoration: none}
+.title_product {  font-family: "Times New Roman", "Times", "serif"; font-size: 20px; font-style: normal; color: #65C1D6; text-decoration: none; font-weight: normal}
+
+a.admin_menu:link { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;}
+a.admin_menu:visited { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;}
+a.admin_menu:active { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;position:relative; top:1; left:1;}
+a.admin_menu:hover { text-decoration:none;color:#ffffff;font-size:9pt;line-height:12pt;position:relative; top:1; left:1;}
+
+.input_gray { font-family: Dotum, DotumChe, Arial, Helvetica; font-size:12px; border: 1px #EFEFEF solid; background-color: #EFEFEF; }
+.box { font-family: Dotum, DotumChe, Arial, Helvetica; font-size:12px; border: 1px #EFEFEF solid; background-color: #EFEFEF; }

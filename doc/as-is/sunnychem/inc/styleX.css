@@ -1,0 +1,20 @@
+#td {  font-family: "Dotum", "MS Sans Serif", "Verdana", "Arial"; font-size: 12px; line-height: 120%; color:#272727; text-decoration: none;}
+td {  font-family:  "Arial", "Dotum", "MS Sans Serif", "Verdana", "Arial"; font-size: 12px; color:#272727 ; text-decoration: none;}
+
+a:link {  font-family: "Arial","Dotum", "MS Sans Serif", "Verdana", "Arial"; font-size: 12px; line-height: 12px; color: 575757; text-decoration: none}
+a:visited {  font-family: "Arial","Dotum", "MS Sans Serif", "Verdana", "Arial"; font-size: 12px; line-height: 12px; color: 575757; text-decoration: none}
+a:hover {  font-family: "Arial", "Dotum","MS Sans Serif", "Verdana", "Arial"; font-size: 12px; line-height: 12px; color: ff6633; text-decoration: none}
+
+.input {  font-family: "Dotum", "MS Sans Serif", "Verdana", "Arial"; font-size: 12px; color: 666666; border: solid 1px #cdcdcd; }
+
+
+body {
+  scrollbar-3dlight-color: #B4B4B4;
+  scrollbar-arrow-color: #333333;
+  scrollbar-base-color: #EEEEEE;
+  scrollbar-darkshadow-color: #FFFFFF;
+  scrollbar-face-color: #EEEEEE;
+  scrollbar-highlight-color: #FFFFFF;
+  scrollbar-shadow-color: #B4B4B4
+}
+
