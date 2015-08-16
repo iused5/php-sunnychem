@@ -29,7 +29,6 @@ $home_url="http://anyhomepage.com/sunnychem"; //XXXXX
 // FIX - 2015-08-15-01 - $d_root="/home/anyhomepage/public_html/sunnychem";
 $d_root="C:/app/git-repository/php-sunnychem/public_html/sunnychem";
 
-
 $title_text="::: $home_url :::";
 
 
