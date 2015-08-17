@@ -214,6 +214,7 @@ if($file_content && file_exists("$d_root/$file_content")) {
 
 }else{
 
+  echo "=c_$basename.inc.php=";
   $file_img="c_$basename.gif";
   if($file_img && file_exists("$d_root/$Ximg/$file_img")) {
 	echo "<img src='$Ximg/$file_img' $usemap_file_img>";
