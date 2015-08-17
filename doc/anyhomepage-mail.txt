@@ -3,9 +3,7 @@
 옮기시고 수정하실 부분은
 
 inc/conf.inc.php 
-
 inc/h.inc.php  
-
 inc/pre.inc.php 
 
 입니다.
