@@ -18,3 +18,15 @@ body {
   scrollbar-shadow-color: #B4B4B4
 }
 
+/* FIX - 2015-08-15-01 - start */
+.prd-cat { line-height:20px; display:inline-block; vertical-align:top; position:relative; top:40px; }
+.prd-cat-tit-bul { width:2px; height:30px; background-color:#40A8D9; display:inline-block; }
+.prd-cat-tit { line-height:15px; display:inline-block; position:relative; font-weight:bold; font-size:13px; }
+.prd-cat-prd { font-size:13px; color:#808080; margin-left:5px; display:inline-block; }
+
+.you-ind-wrap { width:695px; text-align:left; }
+.you-ind-title { background:transparent url('../img-renewal-0815/bullet.gif') no-repeat 15px 16px; font-size:19px; padding-top:10px; padding-left:35px; color:rgb(48, 131, 200) }
+.you-ind-cont { margin-left:40px; font-size:12px; line-height:25px; font-weight:bold; color:rgb(69,69,69); }
+
+.cnta-us-wrap { width:695px; text-align:left; }
+/* FIX - 2015-08-15-01 - end */

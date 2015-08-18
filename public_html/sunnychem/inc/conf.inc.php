@@ -25,7 +25,8 @@ $url_index="index.html";
 
 
 $mother_root="";
-$home_url="http://anyhomepage.com/sunnychem"; //XXXXX
+//$home_url="http://anyhomepage.com/sunnychem"; //XXXXX
+$home_url="http://localhost:9080/sunnychem";
 // FIX - 2015-08-15-01 - $d_root="/home/anyhomepage/public_html/sunnychem";
 //$d_root="C:/app/git-repository/php-sunnychem/public_html/sunnychem";
 $d_root="C:/project-space/git-repository/php-sunnychem/public_html/sunnychem";
